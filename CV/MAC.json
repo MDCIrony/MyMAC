@@ -1,0 +1,327 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Díaz Castillo",
+      "title": "Desarrollador Backend { Python + Django | Typescript + Express | AWS | MySQL - MongoDB }",
+      "description": "Egresado de Ingeniería Electromecánica, apasionado en la programación y especializado como Desarrollador Web Backend bajo los lenguajes Python, Javascript y Typescript.\n\nHe diseñado e implementado proyectos API RESTful con Django RestFramework y NodeJS+Express. Me encuentro en la búsqueda de oportunidades para aplicar mis habilidades en proyectos desafiantes que me permitan pulir y profundizar en mis conocimientos.",
+      "location": {
+        "country": "Perú",
+        "region": "Lambayeque",
+        "municipality": "Chiclayo",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/MDCIrony"
+      },
+      {
+        "type": "other",
+        "URL": "https://mdcastillo.me"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/migueldiaz2023"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Analista Estadístico",
+            "startDate": "2021-10-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Asesoramiento y realización de análisis estadísticos descriptivos e inferenciales para proyectos de investigación utilizando SPSS v25 y Python con las librerías Numpy, Pandas y Matplotlib."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Asesor de Investigación",
+            "startDate": "2021-03-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Asesoramiento en proyectos de investigación, principalmente en las áreas de Diseño Mecánico, Gestión de Mantenimiento y Gestión."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Truck and Motors del Perú S.A.C."
+        },
+        "roles": [
+          {
+            "name": "Asistente de Mantenimiento",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Asistente en la implementación del Sistema de Gestión de Mantenimiento; encargado de realizar formatos para el registro y seguimiento de mantenimiento y apoyar en la realización mensual y trimestral de planes de compra de repuestos y materiales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "QHSE Technical Advisors S.A.C. (Prácticas)"
+        },
+        "roles": [
+          {
+            "name": "Asistente de Ingeniería",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Asistente en la realización de planes de Gestión de Seguridad y Salud Ocupacional; apoyo en la realización de formatos excel para Matriz IPERC y formatos ATS."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Bootcamp Backend",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Silabuz",
+          "description": "Bootcamp enfocado al área Backend con ingreso por beca a nombre del Ministerio de Trabajo y Promoción del Empleo del Perú (2022) en conjunto con Silabuz",
+          "URL": "https://www.silabuz.com/",
+          "image": {
+            "alt": "index.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/11/1ba2e646-1ba2-43b1-83da-aebc71fd7f30_index.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Electromecánica",
+        "startDate": "2014-03-01",
+        "finishDate": "2019-02-01",
+        "institution": {
+          "name": "Universidad Señor de Sipán",
+          "description": "Carrera profesional sin titular (egresado)",
+          "URL": "https://www.uss.edu.pe/uss/Escuela-ingenieria-mecanica-electrica",
+          "image": {
+            "alt": "2222.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/11/1be8f45c-0b96-4a80-840e-b56785d2a5b5_2222.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "Solidworks",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/migueldiaz2023"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
