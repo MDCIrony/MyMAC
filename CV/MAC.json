@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "Perú",
         "region": "Lambayeque",
-        "municipality": "Chiclayo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Chiclayo"
       }
     },
     "relevantLinks": [
@@ -107,12 +106,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -215,43 +212,6 @@
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Bootcamp Backend",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "Silabuz",
-          "description": "Bootcamp enfocado al área Backend con ingreso por beca a nombre del Ministerio de Trabajo y Promoción del Empleo del Perú (2022) en conjunto con Silabuz",
-          "URL": "https://www.silabuz.com/",
-          "image": {
-            "alt": "index.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/11/1ba2e646-1ba2-43b1-83da-aebc71fd7f30_index.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Electromecánica",
@@ -321,7 +281,6 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
