@@ -35,6 +35,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Silabuz",
+          "image": {
+            "alt": "index.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/9779476e-90ea-4ee4-9d0f-63e26ba34740_index.png"
+          },
+          "URL": "https://app.silabuz.com/"
+        },
+        "roles": [
+          {
+            "name": "Estudiante en Prácticas",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "\n\nBootcamp de formación en el área Backend obtenido por beca pública del Ministerio de Trabajo y Promoción del Empleo del Perú (2022) en conjunto con Silabuz.Bootcamp de formación en el área Backend obtenido por beca pública del Ministerio de Trabajo y Promoción del Empleo del Perú (2022) en conjunto con Silabuz.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Freelance"
         },
         "roles": [
