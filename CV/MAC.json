@@ -112,7 +112,12 @@
       },
       {
         "organization": {
-          "name": "Truck and Motors del Perú S.A.C."
+          "name": "Truck and Motors del Perú S.A.C.",
+          "image": {
+            "alt": "trucks-and-motors-del-peru-sac-21B6B863E13DC06Bthumbnail.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/459c42c4-fa2f-4233-9c70-5d48a76319dd_trucks-and-motors-de.jpeg"
+          },
+          "URL": "https://www.tymsac.com/"
         },
         "roles": [
           {
