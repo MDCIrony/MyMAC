@@ -134,7 +134,12 @@
       },
       {
         "organization": {
-          "name": "QHSE Technical Advisors S.A.C. (Prácticas)"
+          "name": "QHSE Technical Advisors S.A.C. (Prácticas)",
+          "image": {
+            "alt": "HSQE.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/81140c65-0471-4669-86eb-3bc7693e648c_hsqe.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/qhse-technical-advisors/"
         },
         "roles": [
           {
