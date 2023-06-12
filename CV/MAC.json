@@ -11,28 +11,21 @@
       "title": "Desarrollador Backend { Python + Django | Typescript + Express | AWS | MySQL - MongoDB }",
       "description": "Egresado de Ingeniería Electromecánica, apasionado en la programación y especializado como Desarrollador Web Backend bajo los lenguajes Python, Javascript y Typescript.\n\nHe diseñado e implementado proyectos API RESTful con Django RestFramework y NodeJS+Express. Me encuentro en la búsqueda de oportunidades para aplicar mis habilidades en proyectos desafiantes que me permitan pulir y profundizar en mis conocimientos.",
       "avatar": {
-        "alt": "Professional LinkedIn Profile Picture(4).png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/502a4f47-1db5-4f88-8f1a-0100e6f71e03_professional-linkedi.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/502a4f47-1db5-4f88-8f1a-0100e6f71e03_professional-linkedi.png",
+        "alt": "Professional LinkedIn Profile Picture(4).png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ_99jKSPvTJARuxR4SkXjA6c)",
         "country": "Perú",
         "region": "Lambayeque",
-        "municipality": "Chiclayo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Chiclayo"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/MDCIrony"
-      },
-      {
         "type": "other",
-        "URL": "https://mdcastillo.me"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/migueldiaz2023"
+        "URL": "https://mdcastillo.me",
+        "description": "Personal portfolio"
       }
     ]
   },
@@ -40,10 +33,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "GHL Ingenieros",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/12/7e4d231c-db9f-4ad3-92ce-edfbfbc70d83_ghl_logo_colores_202.png",
+            "alt": "ghl_logo_colores_2023.png"
+          },
+          "URL": "https://ghlperu.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Fullstack Jr.",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de soluciones IoT por medio de webapps con Typescript y React, y soluciones backend por medio de APIRestful con DjangoREST. Aplicación de procesos y tareas en segundo plano con Celery + Redis y planificación y ejecución de despliegues en servidores locales empleando instancias Docker."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Silabuz",
           "image": {
-            "alt": "index.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/9779476e-90ea-4ee4-9d0f-63e26ba34740_index.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/9779476e-90ea-4ee4-9d0f-63e26ba34740_index.png",
+            "alt": "index.png"
           },
           "URL": "https://app.silabuz.com/"
         },
@@ -119,8 +167,8 @@
         "organization": {
           "name": "Truck and Motors del Perú S.A.C.",
           "image": {
-            "alt": "trucks-and-motors-del-peru-sac-21B6B863E13DC06Bthumbnail.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/459c42c4-fa2f-4233-9c70-5d48a76319dd_trucks-and-motors-de.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/459c42c4-fa2f-4233-9c70-5d48a76319dd_trucks-and-motors-de.jpeg",
+            "alt": "trucks-and-motors-del-peru-sac-21B6B863E13DC06Bthumbnail.jpeg"
           },
           "URL": "https://www.tymsac.com/"
         },
@@ -141,8 +189,8 @@
         "organization": {
           "name": "QHSE Technical Advisors S.A.C. (Prácticas)",
           "image": {
-            "alt": "HSQE.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/81140c65-0471-4669-86eb-3bc7693e648c_hsqe.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/81140c65-0471-4669-86eb-3bc7693e648c_hsqe.jpg",
+            "alt": "HSQE.jpg"
           },
           "URL": "https://www.linkedin.com/company/qhse-technical-advisors/"
         },
@@ -164,18 +212,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "HTML",
+          "name": "AWS EC2",
           "type": "technology"
         }
       },
@@ -187,13 +235,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -205,7 +247,7 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Django",
           "type": "technology"
         }
       },
@@ -217,25 +259,13 @@
       },
       {
         "skill": {
-          "name": "Swagger",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS EC2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -247,7 +277,25 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -259,13 +307,13 @@
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "Swagger",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -276,16 +324,16 @@
         "degreeAchieved": true,
         "name": "Ingeniería Electromecánica",
         "startDate": "2014-03-01",
-        "finishDate": "2019-02-01",
         "institution": {
           "name": "Universidad Señor de Sipán",
           "description": "Carrera profesional sin titular (egresado)",
           "URL": "https://www.uss.edu.pe/uss/Escuela-ingenieria-mecanica-electrica",
           "image": {
-            "alt": "2222.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/11/1be8f45c-0b96-4a80-840e-b56785d2a5b5_2222.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/11/1be8f45c-0b96-4a80-840e-b56785d2a5b5_2222.png",
+            "alt": "2222.png"
           }
         },
+        "finishDate": "2019-02-01",
         "linkedCompetences": [
           {
             "name": "Autocad",
@@ -301,14 +349,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/migueldiaz2023"
+          "URL": "https://www.linkedin.com/in/migueldiaz2023",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MDCIrony",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "miguel.acastillodiaz@outlook.es"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "921011156",
+          "countryCode": "+51"
         }
       ]
     },
@@ -337,5 +418,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Estoy en la búsqueda de un puesto enfocado al Backend, en donde me encargue de elementos lógicos y retos de seguridad e integridad del negocio. Con manejo directo de las bases de datos y otros aspectos del lado del servidor. Busco una oportunidad que me llene de retos diarios en los que el uso de nuevas tecnologías sea la constante.\nEspero, adicionalmente, un ambiente de trabajo sano y transparente con mis compañeros y superiores, en donde todos sientan la comodidad de consultar o plantear dudas y nuevas propuestas de solución.",
+    "goodPractices": "Actualmente me encuentro en el aprendizaje e implementación de buenas prácticas en arquitectura de proyectos. Mi intención es construir aplicaciones web escalables y de fácil entendimiento, para futuras mejoras, cambios o algún refactoring adicional. Estoy enfocado en mantener una documentación clara y suficiente."
   }
 }
